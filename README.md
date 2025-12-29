@@ -1,6 +1,10 @@
 # TIL
 Today I Learned..
 
+TIL은 2026년 1월 1일부터 vim 으로 작성하지 않아도 됩니다.
+
+visual studio code, jupyter notebook 등 다양한 에디터 환영!!
+
 ## Template
 
 ### TIL
